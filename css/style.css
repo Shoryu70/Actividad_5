@@ -24,7 +24,7 @@ main{
 
 .col:nth-child(1){
     width: 100%;
-    background-image: url('https://i.pinimg.com/originals/7d/0a/7c/7d0a7c8d6c454736fe90d8f2ab9d92ea.jpg');
+    background-image: url('https://cdn.wallpapersafari.com/53/47/NdUslG.jpg');
     background-position: center;
     background-size: 100%;
     height: auto 60%;
@@ -33,7 +33,7 @@ main{
 }
 
 .col h2{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 4rem;
     text-align: center;
     font-family: cursive;
@@ -42,9 +42,9 @@ main{
 }
 
 .col p{ 
-    background-color: rgba(255, 235, 205, 0.233);
+    background-color: rgba(0, 0, 0, 0.233);
     margin-top: 3cm;
-    color: rgb(63, 55, 55);
+    color: rgb(255, 255, 255);
     font-size: 2rem;
     text-align: center;
     font-family: cursive;
